@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/saraba-static/static/css/main.073c9b0a.css",
+    "main.js": "/saraba-static/static/js/main.96fb267a.js",
+    "static/js/787.2878af5d.chunk.js": "/saraba-static/static/js/787.2878af5d.chunk.js",
+    "static/media/logo.svg": "/saraba-static/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/saraba-static/index.html",
+    "main.073c9b0a.css.map": "/saraba-static/static/css/main.073c9b0a.css.map",
+    "main.96fb267a.js.map": "/saraba-static/static/js/main.96fb267a.js.map",
+    "787.2878af5d.chunk.js.map": "/saraba-static/static/js/787.2878af5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.96fb267a.js"
+  ]
+}
